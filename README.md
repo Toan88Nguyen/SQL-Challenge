@@ -2,7 +2,7 @@
 
 # Background
 
-It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). My first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+It’s been two weeks since I was hired as a new data engineer at Pewlett Hackard (a fictional company). My first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 For this project, I'll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. I will performed the following:
 
@@ -45,3 +45,9 @@ After the database was completed, the following was completed:
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
+
+## Technologies
+
+1. QuickDBD: https://app.quickdatabasediagrams.com
+
+2. pgAdmin4
