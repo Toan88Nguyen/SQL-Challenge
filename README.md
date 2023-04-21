@@ -15,7 +15,7 @@ For this project, I'll design the tables to hold the data from the CSV files, im
 
 Inspected the CSVs and sketched out an ERD of the tables using QuickDBD.
 
-employees_database_erd_quickdbd.png
+![employees_database_erd_quickdbd](https://user-images.githubusercontent.com/120751287/233537271-1dc8f077-81a8-4faa-9a85-97e68314d356.png)
 
 ## Data Engineering
 
